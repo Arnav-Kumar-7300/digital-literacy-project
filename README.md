@@ -12,9 +12,9 @@ A digital literacy project showcasing essential skills, tools, and online practi
 
 ## 📌 Project Overview
 
-The repository contains my Digital Literacy Project Portfolio, undertaken as part of the CSE0001 course. As a Student Digital Ambassador, this project aims to promote awareness on the use of digital tools, professional communication, online presence, and cyber safety.
+The repository contains my Digital Literacy Project, undertaken as part of the CSE0001 course. As a Student Digital Ambassador, this project aims to promote awareness on the use of digital tools, professional communication, online presence, and cyber safety.
 
-The portfolio is divided into five tasks, each representing a module of digital literacy. It demonstrates both practical work and reflections on learning outcomes.
+The project is divided into five tasks, each representing a module of digital literacy. It demonstrates both practical work and reflections on learning outcomes.
 
 ## 📂 Repository Structure
 - **README.md** → Project overview and summary
@@ -49,3 +49,21 @@ Through this project, I have:
 - Improved my communication skills, especially in formal emails.
 - Gained awareness about cyber threats and prevention methods.
 - Explored useful platforms for coding and collaboration.
+
+## 🔗 Useful Links
+
+- **Google Form (Task 3):** https://forms.gle/dg9RqXhR2qnS11aD7
+- **GitHub Profile:** https://github.com/Arnav-Kumar-7300
+- **LinkedIn Profile:** www.linkedin.com/in/arnav-kumar-597214388
+
+## 📖 Conclusion
+
+This project has helped me acquire important digital skills that are necessary for my academic and professional growth. In addition, this project has helped me become a more responsible and aware digital citizen, especially regarding online safety and communication.
+
+## 📚 References
+
+- Canva
+- GitHub
+- LinkedIn
+- Google Forms
+- National Cyber Crime Portal (cybercrime.gov.in)
